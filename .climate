@@ -1,0 +1,5 @@
+NAME=dagordning
+VERSION=0.1.0
+DESCRIPTION=read economy csv for dagordning
+REPOSITORY=
+MAIN=main.js
